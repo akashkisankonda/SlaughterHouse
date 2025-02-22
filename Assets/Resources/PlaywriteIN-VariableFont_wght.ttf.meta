@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 69c1d8f9c2f38450b97add887d0750c1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Playwrite IN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 156b9f113eef6418badeac883ca85dbc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
