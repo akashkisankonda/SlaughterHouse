@@ -175,7 +175,7 @@ public class Goats : MonoBehaviour
             currentMovingGoat.transform.Find("BloodPoolGrowing").GetComponent<ParticleSystem>().Play();
             traumaInducer.Impose(animalInfo.intensity);
             goatStore.AddCoins(animalInfo.KillCoast * (doubleCoins ? 2 : 1));
-            bonusAnimator.SetTrigger("Play");
+            if (doubleCoins) { bonusAnimator.SetTrigger("Play"); }
             GoatBlood.instance.EnableInactiveChildren(1);
             coins.text = goatStore.GetTotalCoinsAvailable().ToString();
         }

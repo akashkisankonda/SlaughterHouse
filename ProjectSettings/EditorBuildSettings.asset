@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TIttyScreen.unity
+    guid: d5bcee440286ca84983648a8e6845720
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/unq.unity
+    guid: 16ad996aadfc34b55a8df8b5a453f4cb
+  - enabled: 0
+    path: Assets/Scenes/3v3.unity
+    guid: b637befe180f546dbbd2c88ad95a82cf
+  - enabled: 0
+    path: Assets/Scenes/unqDUP.unity
+    guid: c610e85622f778c43a782b702f15d44c
+  - enabled: 0
+    path: Assets/Scenes/3v3DUP.unity
+    guid: 5d6756d86fd1949f4af9f1bdca09e77a
+  - enabled: 0
+    path: Assets/Scenes/SampleSceneDUP.unity
+    guid: 57a4a417a7f0f4018b7134f8870deadc
+  - enabled: 1
+    path: Assets/Game.unity
+    guid: 591285acac923b145a41bb4a680ae7f4
+  m_configObjects: {}
